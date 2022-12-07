@@ -15,6 +15,7 @@ int main()
   myfunc();
   printf("This is my BUG ! by yyefimov 18:48");
 	printf("hey you\n");
-  return 0;
+	printf("green\n");
+    return 0;
 }
 
