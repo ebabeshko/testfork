@@ -1,4 +1,5 @@
 int main()
 {
-    return 0;
+	printf("This is my BUG !");
+	return 0;
 }
