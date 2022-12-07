@@ -1,7 +1,15 @@
-#include<stdio.h>
+#include <stdio.h>
+
+void myfunc()
+{
+    printf("Maksym!\r\n");
+}
 
 int main()
 {
-    printf("Andrii\n");
-    return 0;
+  printf("Andrii\n");
+  myfunc();
+  printf("This is my BUG ! by yyefimov");
+	printf("hey you\n");
+  return 0;
 }
