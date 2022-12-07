@@ -1,5 +1,6 @@
 int main()
 {
-	printf("This is my BUG ! by yyefimov");
-	return 0;
+  printf("This is my BUG ! by yyefimov");
+	printf("hey you\n");
+  return 0;
 }
