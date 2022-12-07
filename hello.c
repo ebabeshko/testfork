@@ -7,6 +7,7 @@ void myfunc()
 
 int main()
 {
+  printf("Hello, BaseCamp!")
   printf("Andrii\n");
   printf("My name is Roman\n");
   printf("Andrii\n");
@@ -15,3 +16,4 @@ int main()
 	printf("hey you\n");
   return 0;
 }
+
