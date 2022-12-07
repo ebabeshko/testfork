@@ -1,7 +1,17 @@
 #include <stdio.h>
 
+void myfunc()
+{
+    printf("Maksym!\r\n");
+}
+
 int main()
 {
-    printf("My name is Roman\n");
-    return 0;
+  printf("My name is Roman\n");
+  printf("Andrii\n");
+  myfunc();
+  printf("This is my BUG ! by yyefimov");
+	printf("hey you\n");
+  return 0;
+
 }
